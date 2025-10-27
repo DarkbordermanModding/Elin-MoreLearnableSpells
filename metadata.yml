@@ -1,0 +1,34 @@
+github:
+  description: Allows vanilla spells to be learned from books in Elin.
+  enable_discussions: false
+  enable_issues: false
+  enable_projects: false
+  enable_wiki: false
+  homepage: https://github.com/DarkbordermanModding/Elin-MoreLearnableSpells
+  template: false
+  topics:
+    - mod
+    - elin
+    - elin-mod
+workshop:
+  app_id: 2135150
+  publishedfield_id: 3603706980
+  title: "[0.23.229]More Learnable Spells/更多可學法術"
+  description: |
+    You, the Chosen One, can cast a cold arrow that deals 11d100 damage.
+    But somehow, you can only breathe underwater with Breathe Potions, because you can't cast the Breathe spell.
+    Don't worry - this mod fixes that for you.
+
+    It makes almost all spells in Elin learnable from books,
+    with the exception of Change Material, since it has UI bugs.
+    [hr][/hr]
+    你, 秋森萬, 可以射出 11d100 傷害的寒冰之箭。
+    但你只能靠水中呼吸藥水才能在水下呼吸，因為你不會放水中呼吸法術。
+    這個模組解決了這問題。
+
+    讓 Elin 幾乎所有可施放法術都可以透過書本學習。
+    除了材質變換例外，目前有 UI bug。
+  visibility: 0
+  preview_path: preview.png
+  content_folder: "./"
+  tags: [Cheat, Item]

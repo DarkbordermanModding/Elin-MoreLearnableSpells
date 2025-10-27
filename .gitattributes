@@ -1,0 +1,5 @@
+* linguist-detectable
+* text eol=lf
+*.png binary
+*.jar binary
+*.dll binary

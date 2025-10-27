@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>More Learnable Spells</title>
+  <id>dbm_more_learnable_spells</id>
+  <author>Darkborderman</author>
+  <loadPriority>100</loadPriority>
+  <description>Make more spells learnable in Elin.</description>
+  <tags>Cheat,Item</tags>
+  <version>0.23.229</version>
+</Meta>
